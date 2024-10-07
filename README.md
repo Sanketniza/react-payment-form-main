@@ -6,8 +6,12 @@ A sleek React payment form with Material-UI, React.js, Yup, and Formik for seaml
 
 ## 🚀 Live Demo
 
-Explore the form in action: [Live Demo](https://react-payment-form.vercel.app/)
-Explore the form in action: [Live Demo](https://react-payment-form.vercel.app/)
+Explore the form in action: [Live Demo](reactpaymentcartwithsanket.netlify.app)
+
+## 🚀 Live Demo Link , copy it and paste it in your browser
+<p>reactpaymentcartwithsanket.netlify.app</p>
+
+
 
 ## ✨ Features
 
